@@ -50,16 +50,16 @@
 🔹 Azure Bot Service – Platform for building AI chatbots. Example: Customer support chatbot.  
 🔹 Azure OpenAI Service – Access to OpenAI’s GPT models. Example: Generating automatic summaries of news articles.  
 
-8. Containers & Microservices
-🔹 Azure Container Instances (ACI) – Run lightweight containers without managing infrastructure. Example: Running a microservice on demand.
-🔹 Azure Service Fabric – Deploys microservices with high availability. Example: Managing a large e-commerce system.
-🔹 Azure Red Hat OpenShift – A managed Kubernetes service for OpenShift users. Example: Deploying enterprise applications in containers.
+8. Containers & Microservices  
+🔹 Azure Container Instances (ACI) – Run lightweight containers without managing infrastructure. Example: Running a microservice on demand.  
+🔹 Azure Service Fabric – Deploys microservices with high availability. Example: Managing a large e-commerce system.  
+🔹 Azure Red Hat OpenShift – A managed Kubernetes service for OpenShift users. Example: Deploying enterprise applications in containers.  
 
-9. Hybrid & Multi-Cloud Solutions
-🔹 Azure Arc – Manage servers, Kubernetes, and databases across on-prem, multi-cloud, and Azure. Example: Managing AWS and on-prem resources from Azure.
-🔹 Azure Stack – Extends Azure services to on-premises environments. Example: Running cloud apps in a local data center.
+9. Hybrid & Multi-Cloud Solutions  
+🔹 Azure Arc – Manage servers, Kubernetes, and databases across on-prem, multi-cloud, and Azure. Example: Managing AWS and on-prem resources from Azure.  
+🔹 Azure Stack – Extends Azure services to on-premises environments. Example: Running cloud apps in a local data center.  
 
-10. Messaging & Integration
-🔹 Azure Service Bus – Enterprise-grade messaging for distributed applications. Example: Decoupling order placement from order processing in an e-commerce site.
-🔹 Azure Event Grid – Event-driven architecture for real-time data processing. Example: Triggering a function when a new file is uploaded.
-🔹 Azure Logic Apps – Automates workflows and connects services. Example: Syncing customer data between Salesforce and Azure.
+10. Messaging & Integration  
+🔹 Azure Service Bus – Enterprise-grade messaging for distributed applications. Example: Decoupling order placement from order processing in an e-commerce site.  
+🔹 Azure Event Grid – Event-driven architecture for real-time data processing. Example: Triggering a function when a new file is uploaded.  
+🔹 Azure Logic Apps – Automates workflows and connects services. Example: Syncing customer data between Salesforce and Azure.  
