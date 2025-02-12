@@ -1,6 +1,6 @@
 # Azure-Services---Quick-Study-Notes
 
-1. Compute Services
+1. Compute Services  
 🔹 Azure Virtual Machines (VMs) – Scalable cloud-based computers where you can run applications like Windows/Linux. Example: Hosting a website on a Linux VM.
 🔹 Azure App Service – A managed platform to host web apps, APIs, and mobile backends without managing infrastructure. Example: Deploying a Node.js API.
 🔹 Azure Kubernetes Service (AKS) – A managed Kubernetes platform to deploy and scale containerized applications. Example: Running microservices in Docker containers.
