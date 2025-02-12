@@ -1,11 +1,11 @@
 # Azure-Services---Quick-Study-Notes
 
 1. Compute Services  
-🔹 Azure Virtual Machines (VMs) – Scalable cloud-based computers where you can run applications like Windows/Linux. Example: Hosting a website on a Linux VM.
-🔹 Azure App Service – A managed platform to host web apps, APIs, and mobile backends without managing infrastructure. Example: Deploying a Node.js API.
-🔹 Azure Kubernetes Service (AKS) – A managed Kubernetes platform to deploy and scale containerized applications. Example: Running microservices in Docker containers.
-🔹 Azure Functions – Serverless code execution that runs only when triggered, saving cost. Example: Auto-resizing images when uploaded to storage.
-🔹 Azure Batch – Runs parallel computing jobs efficiently. Example: Processing thousands of images in parallel.
+🔹 Azure Virtual Machines (VMs) – Scalable cloud-based computers where you can run applications like Windows/Linux. Example: Hosting a website on a Linux VM.  
+🔹 Azure App Service – A managed platform to host web apps, APIs, and mobile backends without managing infrastructure. Example: Deploying a Node.js API.  
+🔹 Azure Kubernetes Service (AKS) – A managed Kubernetes platform to deploy and scale containerized applications. Example: Running microservices in Docker containers.  
+🔹 Azure Functions – Serverless code execution that runs only when triggered, saving cost. Example: Auto-resizing images when uploaded to storage. 
+🔹 Azure Batch – Runs parallel computing jobs efficiently. Example: Processing thousands of images in parallel.  
 
 2. Storage Services
 🔹 Azure Blob Storage – Stores large unstructured data like images, videos, and backups. Example: Saving product images for an e-commerce site.
